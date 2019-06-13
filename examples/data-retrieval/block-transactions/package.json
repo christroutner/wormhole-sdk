@@ -1,0 +1,24 @@
+{
+  "name": "block-transactions",
+  "version": "1.0.0",
+  "description": "Lists all Wormhole transactions in a block.",
+  "main": "block-transactions.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node block-transactions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

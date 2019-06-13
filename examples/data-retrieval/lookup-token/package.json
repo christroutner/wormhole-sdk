@@ -1,0 +1,32 @@
+{
+  "name": "lookup-token",
+  "version": "1.0.0",
+  "description": "Get token details from a TX",
+  "main": "lookup-token.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node lookup-token.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example",
+    "bch",
+    "bitcoin cash",
+    "tokens",
+    "token",
+    "wormhole",
+    "node",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

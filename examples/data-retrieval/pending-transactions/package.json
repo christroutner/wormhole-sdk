@@ -1,0 +1,24 @@
+{
+  "name": "pending-transactions",
+  "version": "1.0.0",
+  "description": "Returns a list of unconfirmed Wormhole transactions, pending in the memory pool.",
+  "main": "pending-transactions.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node pending-transactions.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "balances-hash",
+  "version": "1.0.0",
+  "description": "Returns a hash of the balances for the property.",
+  "main": "balances-hash.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node balances-hash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

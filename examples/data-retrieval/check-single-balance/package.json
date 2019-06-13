@@ -1,0 +1,24 @@
+{
+  "name": "check-single-balance",
+  "version": "1.0.0",
+  "description": "Check all BCH and token balances for an address",
+  "main": "create-single-wallet.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node check-single-balance.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

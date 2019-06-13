@@ -1,0 +1,32 @@
+{
+  "name": "change-managed-token-issuer",
+  "version": "1.0.0",
+  "description": "Change the issuer of a managed token",
+  "main": "change-managed-token-issuer.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node change-managed-token-issuer.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example",
+    "bch",
+    "bitcoin cash",
+    "tokens",
+    "token",
+    "wormhole",
+    "node",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

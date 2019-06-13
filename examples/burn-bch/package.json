@@ -1,0 +1,24 @@
+{
+  "name": "burn-bch",
+  "version": "1.0.0",
+  "description": "Send WHC or other tokens",
+  "main": "burn-bch.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node burn-bch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example"
+  ],
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

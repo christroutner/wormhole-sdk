@@ -1,0 +1,25 @@
+{
+  "name": "owner-of-erc721-token",
+  "version": "1.0.0",
+  "description": "Owner of ERC721 Token",
+  "main": "owner-of-erc721-token.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node owner-of-erc721-token.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example",
+    "ERC721"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

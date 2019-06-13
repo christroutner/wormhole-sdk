@@ -1,0 +1,25 @@
+{
+  "name": "get-erc721-property-news",
+  "version": "1.0.0",
+  "description": "Get ERC721 Property News",
+  "main": "get-erc721-property-news.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node get-erc721-property-news.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example",
+    "ERC721"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

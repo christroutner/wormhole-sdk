@@ -1,0 +1,33 @@
+{
+  "name": "create-erc721-property",
+  "version": "1.0.0",
+  "description": "Use 1 WHC to create an ERC721 property.",
+  "main": "create-erc721-property.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node create-erc721-property.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example",
+    "bch",
+    "bitcoin cash",
+    "tokens",
+    "token",
+    "wormhole",
+    "node",
+    "node.js",
+    "ERC721",
+    "javascript"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "consolidate-utxos",
+  "version": "1.0.0",
+  "description": "Consolidate all UTXOs in a wallet back into a single UTXO",
+  "main": "consolidate-utxos.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node consolidate-utxos.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example",
+    "bch",
+    "bitcoin cash",
+    "tokens",
+    "token",
+    "wormhole",
+    "node",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Chris Troutner <chris.troutner@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme",
+  "dependencies": {
+    "wormhole-sdk": "^0.6.0"
+  }
+}

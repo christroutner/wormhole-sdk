@@ -1,0 +1,25 @@
+{
+  "name": "transfer-erc721-token",
+  "version": "1.0.0",
+  "description": "Transfer ERC721 Token",
+  "main": "transfer-erc721-token.js",
+  "scripts": {
+    "test": "echo no tests yet",
+    "start": "node transfer-erc721-token.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bitcoin-com/wormhole-sdk.git"
+  },
+  "keywords": [
+    "wormhole-sdk",
+    "example",
+    "ERC721"
+  ],
+  "author": "Gabriel Cardona <gabriel@bitcoin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Bitcoin-com/wormhole-sdk/issues"
+  },
+  "homepage": "https://github.com/Bitcoin-com/wormhole-sdk#readme"
+}
